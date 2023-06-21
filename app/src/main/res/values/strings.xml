@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Activity Tracker</string>
+    <string name="error">error</string>
+    <string name="START">START</string>
+    <string name="STOP">STOP</string>
+    <string name="RESUME">RESUME</string>
+    <string name="not_tracking">not tracking</string>
+    <string name="pausing">pausing</string>
+    <string name="starting_soon">starting soon</string>
+    <string name="tracking">tracking…</string>
+    <string name="ready_to_train">ready to train</string>
+    <string name="ready_to_test">ready to test</string>
+    <string name="testing">testing…</string>
+    <string name="ready_to_preprocess">ready to preprocess</string>
+    <string name="waiting">waiting…</string>
+    <string name="recording">recording…</string>
+    <string name="test_result">Test result: %f</string>
+</resources>
